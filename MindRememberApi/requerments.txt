@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+psycopg2
+sqlalchemy
+alembic
+PyJWT
+passlib[bcrypt]
+pytest
+pytest-asyncio
+httpx
+locust
